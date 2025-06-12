@@ -21,3 +21,14 @@ w2d1: (loops)
 - nested loops
 - strings
 - dictionaries
+
+w2d2: 
+- functions
+- arguments
+- scopes
+- arbitrary keyword arguments **kwargs
+  
+w2d3: classes
+- what is a class
+- scopes
+- objects
