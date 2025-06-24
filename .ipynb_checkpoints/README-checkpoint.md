@@ -48,7 +48,14 @@ w3d2: (csvAndJson)
 - json
   
 
+w3d3: (summary activity)
+- summary activity
+- txt, json, csv
+- unfinished
 
-
+w4d1: (numPy)
+- array
+- slicing
+- transposing 
   
 
