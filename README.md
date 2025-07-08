@@ -57,5 +57,33 @@ w4d1: (numPy)
 - array
 - slicing
 - transposing 
-  
+
+w4d2: (APIs)
+- web scraping
+- .requests()
+
+w4d3:
+- XML
+- HTML
+- Beautiful Soup
+
+w5d1:
+- Pandas
+
+w5d2: 
+- data cleaning
+- sortdictionary
+
+w5d3: 
+- data wrangling
+- web scraping
+- wikifunctions
+
+w6d1: (EDA)
+- data collection
+- univariate analysis
+- plots
+
+w6d2: (EDA cont)
+- Bivariate analysis
 
