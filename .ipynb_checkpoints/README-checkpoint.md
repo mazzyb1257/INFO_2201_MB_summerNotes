@@ -86,4 +86,7 @@ w6d1: (EDA)
 
 w6d2: (EDA cont)
 - Bivariate analysis
-
+- plotting figures
+- saving png and jpeg
+- missingo (to show whole dataset)
+- dropping missing data
